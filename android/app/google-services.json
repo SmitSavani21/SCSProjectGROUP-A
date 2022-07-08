@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1018163041615",
+    "project_id": "pregnancy-routine-check-up",
+    "storage_bucket": "pregnancy-routine-check-up.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018163041615:android:9bfff800470ade2d95213a",
+        "android_client_info": {
+          "package_name": "com.example.health_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018163041615-vd4pqpslu56eaofiqslr2sglshu22anh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0JcrJSAZ7myLxQe43jSS4fzg6EJYU73c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018163041615-vd4pqpslu56eaofiqslr2sglshu22anh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
